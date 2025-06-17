@@ -2,7 +2,7 @@
 
 This repository contains the Python simulation code for the CPEN 511 course project, "Advanced Computer Architecture."
 
-> **Note:** This repository only includes the simulation code. The full project report can be found in [CPEN511_final.pdf](CPEN511_final.pdf).
+> **Note:** This repository only includes the simulation code. The full project report can be found in [CPEN511_final.pdf](CPEN_511_final_report__Mani_.pdf).
 
 ## How to Run
 
